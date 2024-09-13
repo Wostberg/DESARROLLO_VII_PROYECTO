@@ -7,6 +7,8 @@ error_reporting(E_ALL);
 // Define the base path for includes
 define('BASE_PATH', __DIR__ . '/');
 
+//Prueba de Commit
+
 // Include the configuration file
 require_once BASE_PATH . 'config.php';
 
